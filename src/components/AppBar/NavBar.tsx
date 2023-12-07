@@ -1,6 +1,6 @@
 import { useDisclosure } from '@mantine/hooks';
 import { AppShell, Burger, Group,  UnstyledButton } from '@mantine/core';
-import { Link, NavLink, Route, Routes } from 'react-router-dom';
+import { Link, Route, Routes } from 'react-router-dom';
 import { adminRoute, clientRoutes } from '../../utilities/routeApp';
 import Home from '../viewClient/Home';
 import Login from '../viewClient/Login';
