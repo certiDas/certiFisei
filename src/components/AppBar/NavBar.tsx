@@ -5,10 +5,10 @@ import { adminRoute, clientRoutes } from '../../utilities/routeApp';
 import Home from '../viewClient/Home';
 import Login from '../viewClient/Login';
 import Certificados from '../viewAdmin/Certificados';
-import Curso from '../viewAdmin/Curso';
 import Firma from '../viewAdmin/Firma';
 import Plantilla from '../viewAdmin/Plantilla';
 import Contacto from '../viewClient/Contacto';
+import Curso from '../viewAdmin/Curso';
 
 
 

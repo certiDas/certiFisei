@@ -9,7 +9,7 @@ import { adminRoute, clientRoutes } from './utilities/routeApp';
 import Home from './components/viewClient/Home';
 import Login from './components/viewClient/Login';
 import Certificados from './components/viewAdmin/Certificados';
-import Curso from './components/viewAdmin/Curso';
+import Curso from './components/viewAdmin/Curso.1';
 import Firma from './components/viewAdmin/Firma';
 import Plantilla from './components/viewAdmin/Plantilla';
 
