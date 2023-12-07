@@ -1,11 +1,15 @@
-import { Button, Container, PasswordInput, TextInput } from "@mantine/core";
+
+import { Button, Container, PasswordInput, TextInput } from '@mantine/core'
+
+
 
 
 
 
 export default function Login() {
   return (
-    <div>
+
+    
       <Container  size="xs" h={150} bg="var(--mantine-color-blue-light)" className="flex items-center justify-center h-screen" >
         <form >
           <TextInput withAsterisk
@@ -29,6 +33,7 @@ export default function Login() {
        
 
       </Container>
-    </div>
+    
+
   )
 }
